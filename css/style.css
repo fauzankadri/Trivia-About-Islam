@@ -8,8 +8,8 @@ body {
 }
 button{
   display: block;
-  width: 350px;
-  height: 100px;
+  width: 20%;
+  height: 120px;
   text-align: center;
   margin: 5px;
   background-color: #2CA4AB;
@@ -81,7 +81,7 @@ h1, h2{
 
 #response {
   height: 100px;
-  width:300px;
+  width:20%;
   display: none;
   border-radius: 3px;
   margin: 0 auto;
@@ -98,3 +98,11 @@ h1, h2{
   text-align: center;
   padding: 20px;
 }
+
+@media only screen and (max-width: 1300px) {
+    button {
+      width: 100%;
+    }
+    #response {
+      width:100%;
+    }
