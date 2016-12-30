@@ -67,7 +67,7 @@ h1, h2{
 #stats {
   padding: 15px;
   margin: auto;
-  width: 30%;
+
   height:200px;
   text-align: center;
 }
@@ -81,9 +81,10 @@ h1, h2{
 
 #response {
   height: 100px;
+  width:300px;
   display: none;
   border-radius: 3px;
-  margin: auto;
+  margin: 0 auto;
   border-style: solid;
   border-color: #2CA4AB;
   border-width: 1px;
