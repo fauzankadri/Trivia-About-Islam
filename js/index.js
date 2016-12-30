@@ -24,7 +24,7 @@ var ques = {
 'What is the name of the first battle of Islam':
 ['The Battle of Badr', 'The Battle of Uhud', 'The Battle of the Trench', 'The Battle of Khaybar'],
 'Who was the first martyr in Islam':
-['Sumaiyah (r.a.)', 'Khadijah (r.a.)', 'Abu-Talib (r.a.)', 'Abu-Sufyan (r.a.)'],
+['Sumaiyah (r.a.)', 'Khadijah (r.a.)', 'Bilal (r.a.)', 'Abu-Sufyan (r.a.)'],
 'When Muhammad (pbuh) reached Masjid-al-Aqsa, who did he lead in prayer':
 ['All the prophets', 'All the Sahabas', 'The locals who resided there', 'The 5 great prophets'],
 'What was given to Muhammad (pbuh) through Isra and Miraj':
